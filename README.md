@@ -28,6 +28,7 @@ Rows: 8807
 Columns: 12
 
 🧹 Data Cleaning Steps Performed
+
 🔹 1. Importing Dataset
 import pandas as pd
 df = pd.read_csv("netflix_titles.csv")
